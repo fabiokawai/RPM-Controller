@@ -29,6 +29,7 @@
 // Forward declaration of the default fault handlers.
 //
 //*****************************************************************************
+
 void ResetISR(void);
 static void NmiSR(void);
 static void FaultISR(void);

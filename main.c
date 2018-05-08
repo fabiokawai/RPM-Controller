@@ -17,7 +17,6 @@ uint32_t motorSwitch = 1;
 uint32_t motorDirection = 1;
 uint32_t motorValue;
 
-
 //PF1 -
 //PF2 +
 //PF3 Inverte
